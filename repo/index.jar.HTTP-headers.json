@@ -1,0 +1,11 @@
+{
+  "Accept-Ranges": "bytes",
+  "Connection": "keep-alive",
+  "Content-Length": "2542770",
+  "Content-Type": "application/java-archive",
+  "Date": "Tue, 18 Oct 2022 08:15:26 GMT",
+  "ETag": "\"26ccb2-5eb4183ceed79\"",
+  "Last-Modified": "Mon, 17 Oct 2022 21:18:20 GMT",
+  "Server": "nginx/1.18.0",
+  "Strict-Transport-Security": "max-age=31536000; includeSubDomains"
+}
